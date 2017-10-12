@@ -124,7 +124,7 @@ function adjustWordsPosition() {
 }
 
 function adjustCodePosition() {
-    $("#code").css("height", 500)
+    $("#code").css("height", 650)
 }
 function showLoveU() {
     $("#loveu").fadeIn(3000)

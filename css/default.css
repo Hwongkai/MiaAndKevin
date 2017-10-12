@@ -2,7 +2,7 @@ body {
 	margin:0;
 	padding:0;
 	background:#ffe;
-	font-size:20px;
+	font-size:22px;
 	overflow:auto
 }
 #mainDiv {
@@ -56,9 +56,9 @@ body {
 }
 #code {
 	float:left;
+	margin-top:20px;
 	color:#333;
 	font-family:"Consolas","Monaco","Bitstream Vera Sans Mono","Courier New","sans-serif";
-	font-size:24px
 	padding:0;
 }
 #code .string {
